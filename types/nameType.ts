@@ -1,5 +1,5 @@
 
-export type NameType = {
-    name: string;
-    lastName: string 
-}
+// export type NameType = {
+//     name: string;
+//     lastName: string 
+// }
